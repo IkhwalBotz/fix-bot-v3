@@ -67,10 +67,10 @@ global.ppulsa2 = '08XXXXXXXXXX' // kalau ada kartu lain isi aja
 global.psaweria = 'https://saweria.com/mrw4h1d'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62XXXXXXXXXXX'
-global.nomorown = '6283193831650'
-global.namebot = 'AR-MODS-BOT-V3'
-global.nameown = 'AR MODS DEV'
+global.nomorbot = '6285782139729'
+global.nomorown = '6285782139729'
+global.namebot = 'XvSatriany'
+global.nameown = 'XvSatriany'
 
 /*============== Github Thanks To ==============*/
 global.namagithub = '-' // nama github lu
@@ -85,7 +85,7 @@ global.lolkey = 'e54205a4ca2caa368cc067bb' // PUNYA WAHID  8e66d0934cf741bfd2182
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283193831650', 'AR MODS DEV', true],
+  ['6285782139729', 'XvSatriany', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
@@ -138,14 +138,14 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 AR-MODS-BOT-V3 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘AR-MODS-BOT-V3 ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ AR-MODS-BOT-V3 '
+global.wm = '                「 XvSatriany 」' //Main Watermark
+global.wm2 = 'XvSatriany'
+global.wm3 = '⫹⫺ XvSatriany '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By AR-MODS-DEV`
+global.titlebot = `⫹⫺ WhatsApp Bot | XvSatriany`
 global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
-global.author = '                「 AR-MODS-BOT-V3  あ」'
+global.author = '                「 XvSatriany 」'
 
 /*Fake*/
 global.fsizedoc = '1'.repeat(10)
